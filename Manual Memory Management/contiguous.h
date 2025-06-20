@@ -3,7 +3,7 @@
 struct contiguous;
 
 // We need to make these available solely for testing.
-// Do not use these values anywhere in your solution!
+// Do not use these values anywhere else!
 extern const int SIZEOF_CONTIGUOUS;
 extern const int SIZEOF_CNODE;
 
