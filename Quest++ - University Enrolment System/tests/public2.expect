@@ -1,0 +1,14 @@
+Alice Smith (id: 20000000) is registered in no courses
+Bob McDonald (id: 20000001) is registered in no courses
+Carol Brown (id: 20000002) is registered in no courses
+CS 136 (Elementary Algorithm Design and Data Abstraction) has no students enrolled
+Alice Smith (id: 20000000) is registered in CS 136
+Alice Smith (id: 20000000) is registered in CS 136, CS 135
+CS 135 (Designing Functional Programs) has 1 student(s) enrolled: Alice Smith
+Alice Smith (id: 20000000) is registered in CS 136 (50), CS 135
+CS 136 (Elementary Algorithm Design and Data Abstraction) has 3 student(s) enrolled: Alice Smith, Bob McDonald, Carol Brown - mean grade is 40
+Carol Brown (id: 20000002) is registered in CS 136, CS 135
+DROP FAILURE: student's grade is already set
+CS 136 (Elementary Algorithm Design and Data Abstraction) has 2 student(s) enrolled: Alice Smith, Bob McDonald - mean grade is 40
+Carol Brown (id: 20000002) is registered in CS 135
+Carol Brown (id: 20000002) is registered in CS 146, CS 135

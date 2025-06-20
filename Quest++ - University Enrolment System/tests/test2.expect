@@ -1,0 +1,39 @@
+CS 999 (2 student) has no students enrolled
+ENROLLMENT FAILURE: student does not exist
+Zero (id: 20000000) is registered in no courses
+One (id: 20000001) is registered in no courses
+Two (id: 20000002) is registered in no courses
+Three (id: 20000003) is registered in no courses
+ENROLLMENT FAILURE: course does not exist
+CS 999 (2 student) has 1 student(s) enrolled: Zero
+Zero (id: 20000000) is registered in CS 999
+ENROLLMENT FAILURE: student is already enrolled in course
+ENROLLMENT FAILURE: course is full
+CS 999 (2 student) has 2 student(s) enrolled: Zero, One
+Zero (id: 20000000) is registered in CS 999
+One (id: 20000001) is registered in CS 999
+Two (id: 20000002) is registered in no courses
+PRINT COURSE FAILURE: course does not exist
+PRINT STUDENT FAILURE: student does not exist
+CREATE FAILURE: course already exists
+DS 999 (1 student) has no students enrolled
+DROP FAILURE: student does not exist
+DROP FAILURE: student does not exist
+DROP FAILURE: course does not exist
+CS 999 (2 student) has 2 student(s) enrolled: Zero, One
+DROP FAILURE: student is not enrolled in course
+CS 999 (2 student) has 1 student(s) enrolled: Zero
+CS 999 (2 student) has 1 student(s) enrolled: Zero - mean grade is 100
+DROP FAILURE: student's grade is already set
+SUBMIT FAILURE: course does not exist
+SUBMIT FAILURE: student does not exist
+SUBMIT FAILURE: student is not enrolled in course
+CS 999 (2 student) has 1 student(s) enrolled: Zero - mean grade is 22
+SUBMIT FAILURE: invalid grade
+SUBMIT FAILURE: invalid grade
+Three (id: 20000003) is registered in CS 1, CS 2, CS 3
+Three (id: 20000003) is registered in CS 1, CS 4, CS 3
+Three (id: 20000003) is registered in CS 4, CS 3
+Three (id: 20000003) is registered in CS 2, CS 4, CS 3
+Three (id: 20000003) is registered in CS 2, CS 4, CS 1
+Three (id: 20000003) is registered in CS 1, CS 4, CS 2
